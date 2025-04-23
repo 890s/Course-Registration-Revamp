@@ -6,4 +6,3 @@ class ClassSchedule:
     self.ss = ss
     self.elect1 = elec1
     self.elect2 = elec2
-
