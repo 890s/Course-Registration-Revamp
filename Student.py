@@ -1,6 +1,15 @@
 class Student:
-  def __init__(self, id, grade, courses, selection):
-    self.studentId = id
-    self.gradeLevel = grade
-    self.coursesTaken = courses
-    self.coursesSel = selection
+    def __init__(self, id, grade, courses, schedule=None):
+        self.id = id
+        self.grade = grade
+        self.courses = courses
+        self.schedule = schedule
+        
+    def setSchedule(self, schedule):
+        self.schedule = schedule
+        
+    def getSchedule(self):
+        return self.schedule
+        
+    def __str__(self):
+        return self.id
