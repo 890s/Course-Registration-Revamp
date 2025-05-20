@@ -1,0 +1,364 @@
+1,23.0610002,9TH GR LIT AND COMP,9th Literature & Composition I,9,,,ELA
+2,23.0610042,9TH LIT AND COMP HON,9th Literature & Composition I Honors,9,,,ELA
+3,23.2610002,9TH LIT AND COMP GF,9th Literature & Composition I Gifted,9,,,ELA
+4,23.0620002,10 LIT & COMP,10th Literature & Composition II,10,,,ELA
+5,23.0620042,10 LIT & COMP HON,10th Literature & Composition II Honors,10,,,ELA
+6,23.2620002,10 LIT & COMP GF,10th Literature & Composition II Gifted,10,,,ELA
+7,23.0510002,11 AM LIT & COMP,11th American Literature,11,,,ELA
+8,23.0510042,11 AM LIT & COMP H,11th American Literature Honors,11,,,ELA
+9,23.2510002,11 AM LIT&COMP GF,11th American Literature Gifted,11,,,ELA
+10,23.0510042,11 AM LIT & COMP H,11th Am. Lit Creative Writing Honors,11,Crawford A,,ELA
+11,23.2510002,11 AM LIT&COMP GF,11th Am. Lit Creative Writing Gifted,11,Crawford A,,ELA
+12,23.0510042,11 AM LIT & COMP H,AP Seminar,11,Gorun J,,ELA
+13,23.2510002,11 AM LIT&COMP GF,AP Seminar Gifted,11,Gorun J,,ELA
+14,23.0520002,12 BR LIT & COMP,12th British Literature,12,,,ELA
+15,23.0520042,12 BR LIT&COMP HON,12th British Literature Honors,12,,,ELA
+16,23.2520002,12 BR LIT&COMP GF,12th British Literature Gifted,12,,,ELA
+17,23.0520042,12 BR LIT&COMP HON,12th Br. Lit Creative Writing Honors,12,Crawford A,,ELA
+18,23.2520002,12 BR LIT&COMP GF,12th Br. Lit Creative Writing Gifted,12,Crawford A,,ELA
+19,23.0430012,AP LANG COMP,AP Language & Composition,12,,,ELA
+20,23.0530012,AP LANG(AL)/ COMP,AP Language & Composition (Am. Lit),11,,,ELA
+21,23.2430012,AP LANG COMP GF,AP Language & Composition Gifted,12,,,ELA
+22,23.0650012,AP LIT/COMP,AP Literature & Composition,12,,,ELA
+23,23.2650012,AP LIT/COMP GF,AP Literature & Composition Gifted,12,,,ELA
+24,23.0670004,MULTICUL LIT/ COMP,Multicultural Language,12,,,ELA
+25,23.0670044,MULTICUL LIT/ COMP HON,Multicultural Language Honors,12,,,ELA
+26,23.2670004,MULTICUL LIT/ COMP GF,Multicultural Language Gifted,12,,,ELA
+27,23.0320002,JOURNALISM I,Yearbook (Journalism I),,,,ELA
+28,23.0330002,JOURNALISM II,Yearbook (Journalism II),,,,ELA
+29,23.0350002,JOURNALISM III,Yearbook (Journalism III),,,,ELA
+30,23.0370012,AP RES ELA-CAPSTON,AP Research,12,,12=13,ELA
+31,23.2370012,AP RES ELA-CAP GF,AP Research Gifted,12,,12=13,ELA
+32,27.0811002,ALGEBRA: CONC & CONN,Algebra Con. & Conn.,,,,Math
+33,27.2811002,ALGEBRA: CONC & CONN GF,Algebra Con. & Conn. Gifted,,,,Math
+34,27.0821002,GEOMETRY: CONC & CONN,Geometry Con. & Conn.,,,32=33,Math
+35,27.0821042,ACCEL GEOM: C&C,Acc. Geometry Con. & Conn.,,,32=33,Math
+36,27.2821042,ACCEL GEOM: C&C GF,Acc. Geometry Con. & Conn. Gifted,,,32=33,Math
+37,27.0831002,ADV ALG: CONC & CONN,Adv. Algebra Con. & Conn.,,,34=35=36,Math
+38,27.2831002,ADV ALG: CONC & CONN GF,Adv. Algebra Con. & Conn. Gifted,,,34=35=36,Math
+39,27.0931002,ENH ADV ALG/AP PREC: C&C,Enhanced Adv. Alg + AP Precalc,,,35=36,Math
+40,27.2931002,ENH ADV ALG/AP PREC: C&C GF,Enhanced Adv. Alg + AP Precalc Gifted,,,35=36,Math
+41,27.0841002,PRECALCULUS,Precalculus,,,37=38,Math
+42,27.0741002,AP PRECALCULUS,AP Precalculus,,,37=38,Math
+43,27.2741002,AP PRECALCULUS GIFTED,AP Precalculus Gifted,,,37=38,Math
+44,27.0880002,STAT REASONING,Statistical Reasoning,,,37=38=39=40,Math
+45,27.0780002,CALC,Calculus,,,39=40=41=42=43,Math
+46,27.2780002,CALC GF,Calculus Gifted,,,39=40=41=42=43,Math
+47,27.0740012,AP STAT,AP Statistics,,,37=38=39=40,Math
+48,27.2740012,AP STAT GIFT,AP Statistics Gifted,,,37=38=39=40,Math
+49,27.0720012,AP CAL AB,AP Calculus AB,,,39=40=41=42=43,Math
+50,27.2720012,AP CAL AB GF,AP Calculus AB Gifted,,,39=40=41=42=43,Math
+51,27.0730012,AP CAL BC,AP Calculus BC,,,39=40=42=43,Math
+52,27.2730012,AP CAL BC GF,AP Calculus BC Gifted,,,39=40=42=43,Math
+53,27.0770004,ADV CALC II,Advanced Calc II,,,49=50=51=52,Math
+54,27.2770004,ADV CALC II GF,Advanced Calc II Gifted,,,49=50=51=52,Math
+55,45.0830002,WORLD HIST,World History,10,,,Social Studies
+56,45.0830042,WORLD HIST HON,World History Honors,10,,,Social Studies
+57,45.2830002,WORLD HIST GF,World History Gifted,10,,,Social Studies
+58,45.0811012,AP WOR HIST,AP World History,10,,,Social Studies
+59,45.2811012,AP WOR HIST GF,AP World History Gifted,10,,,Social Studies
+60,45.0810002,US HIST,US History,11,,,Social Studies
+61,45.0810002,US HISTORY,US History,11,,,Social Studies
+62,45.0810042,US HISTORY HON,US History Honors,11,,,Social Studies
+63,45.2810002,US HISTORY GF,US History Gifted,11,,,Social Studies
+64,45.0820012,AP US HIST,AP US History,11,,,Social Studies
+65,45.2820012,AP US HIST GF,AP US History Gifted,11,,,Social Studies
+66,45.0570001,AMGOV/CIV,American Government/Civics,12,,,Social Studies
+67,45.0570041,AMGOV/CIV HON,American Government/Civics Honors,12,,,Social Studies
+68,45.0520011,AP AM GOV,AP American Government/Civics,12,,,Social Studies
+69,45.2520011,AP AM GOV GF,AP American Government/Civics Gifted,12,,,Social Studies
+70,45.0610001,ECON & PERS FIN,Economics & Personal Finance,12,,,Social Studies
+71,45.0610041,ECON & PERS FIN HON,Economics & Personal Finance Honors,12,,,Social Studies
+72,45.0620011,AP MACRECON,AP Macroeconomics,12,,,Social Studies
+73,45.2620011,AP MACRECON GF,AP Macroeconomics Gifted,12,,,Social Studies
+74,45.0711002,WORLD GEOG,World Geography,,,,Social Studies
+75,45.0711042,WORLD GEOG HON,World Geography Honors,,,,Social Studies
+76,45.2711002,WORLD GEOG GF,World Geography Gifted,,,,Social Studies
+77,45.0770012,AP HUM GEOG,AP Human Geography,,,,Social Studies
+78,45.2770012,AP HUM GEO GF,AP Human Geography Gifted,,,,Social Studies
+79,45.0160012,AP PSYCH,AP Psychology,11 12,,,Social Studies
+80,45.2160012,AP PSYCH GF,AP Psychology Gifted,11 12,,,Social Studies
+81,45.0896012,AP AFRICAN AMER STUD,AP African American Studies,11 12,,,Social Studies
+82,45.2896012,AP AFRICAN AMER STUD GF,AP African American Studies Gifted,11 12,,,Social Studies
+83,45.0120001,CONTEM ISSUES,Contemp. Issues & Philosophy,10 11 12,,,Social Studies
+84,45.0191001,AFRICAN AMER STUDIES,Ethnic Studies & Af. Am. Studies,10 11 12,,,Social Studies
+85,45.0580001,CONTROV ISSUES,Law & Controversial Issues,10 11 12,,,Social Studies
+86,45.0310001,SOCIOLOGY,Psychology & Sociology,10 11 12,,,Social Studies
+87,26.0120002,BIOLOGY,Biology,9,,,Science
+88,26.0120042,BIOLOGY HON,Biology Honors,9,,,Science
+89,26.2120002,BIOLOGY GF,Biology Gifted,9,,,Science
+90,40.0510002,CHEM,Chemistry,10,,,Science
+91,40.0510042,CHEM HONOR,Chemistry Honors,10,,,Science
+92,40.2510002,CHEM GF,Chemistry Gifted,10,,,Science
+93,40.0810002,PHYSICS,Physics,10 11,,,Science
+94,40.0810042,PHYSICS HON,Physics Honors,10 11,,,Science
+95,40.2810002,PHYSICS GF,Physics Gifted,10 11,,,Science
+96,21.4570002,APPROP/ALT ENERGY,Appropriate & Alternate Energy,9,,,Science
+97,26.0730002,ANAT & PHYS,Anatomy & Physiology,,,,Science
+98,26.2730002,ANAT & PHY GF,Anatomy & Physiology Gifted,,,,Science
+99,40.0831012,AP PHYSICS I,AP Physics I,,,39=40=41=42=43 87=88=89 90=91=92,Science
+100,40.2831012,AP PHYSICS I GF,AP Physics I Gifted,,,39=40=41=42=43 87=88=89 90=91=92,Science
+101,26.0140052,AP BIOLOGY N EO,AP Biology,,,87=88=89 90=91=92,Science
+102,26.2140052,AP BIOLOGY N EO GF,AP Biology Gifted,,,87=88=89 90=91=92,Science
+103,26.2140052,AP BIOLOGY GF,AP Biology Gifted,,,87=88=89 90=91=92,Science
+104,40.0530012,AP CHEM,AP Chemistry,,,87=88=89 90=91=92,Science
+105,40.2530012,AP CHEM GF,AP Chemistry Gifted,,,87=88=89 90=91=92,Science
+106,26.0620012,AP ENV SC,AP Enviornmental Science,,,87=88=89 90=91=92,Science
+107,26.2620012,AP ENV SC GF,AP Enviornmental Science Gifted,,,87=88=89 90=91=92,Science
+108,21.4510002,ENGY/POWER TECH,Energy & Power Technology,,,87=88=89 90=91=92,Science
+109,40.0930002,FOREN SCI,Forensic Science,,,87=88=89 90=91=92,Science
+110,40.0930042,FORENSIC SCI HON,Forensic Science Honors,,,87=88=89 90=91=92,Science
+111,40.2930002,FOREN SCI GF,Forensic Science Gifted,,,87=88=89 90=91=92,Science
+112,40.0890002,ADV PHYS ROBOTIC,Robotics,,,87=88=89 90=91=92 93=94=95=99=100,Science
+113,40.2890002,ADV PHYS ROBOTIC GF,Robotics Gifted,,,87=88=89 90=91=92 93=94=95=99=100,Science
+114,3.4110002,NAT RES MGMT,NRM: Aquaponics,,,87=88=89 90=91=92,Science
+115,40.0923002,BIO ENGIN,Molec. Biology & Bioengineering,,,87=88=89 90=91=92,Science
+116,40.2923002,BIO ENGIN GF,Molec. Biology & Bioengineering Gifted,,,87=88=89 90=91=92,Science
+117,3.4510002,FOREST SCIENCE,Forestry Science,,,87=88=89 90=91=92,Science
+118,25.4460002,SPORTS MEDICINE,Sports Medicine,,,87=88=89 90=91=92,Science
+119,40.0842012,AP PHYSICS C:E&M,AP Physics C: M/E & M,,,49=50=51=52 99=100,Science
+120,40.2842012,AP PHY C:E&M GF,AP Physics C: M/E & M Gifted,,,49=50=51=52 99=100,Science
+121,60.0110002,FRENCH I,French I,,,,Elective
+122,60.0110042,FREN I HON,French I Honors,,,,Elective
+123,60.0120002,FRENCH II,French II,,,,Elective
+124,60.0120042,FRENCH II HON,French II Honors,,,,Elective
+125,60.2120002,FRENCH II GF,French II Gifted,,,,Elective
+126,60.0130002,FRENCH III,French III,,,,Elective
+127,60.0130042,FRENCH III HON,French III Honors,,,,Elective
+128,60.2130002,FRENCH III GF,French III Gifted,,,,Elective
+129,60.0170012,AP FRENCH,AP French,,,126=127=128,Elective
+130,60.2170012,AP FRENCH GF,AP French Gifted,,,126=127=128,Elective
+131,61.0110002,GERMAN I,German I,,,,Elective
+132,61.0110042,GERMAN I HON,German I Honors,,,,Elective
+133,61.0120002,GERMAN II,German II,,,,Elective
+134,61.0120042,GERMAN II HON,German II Honors,,,,Elective
+135,61.2120002,GERMAN II GF,German II Gifted,,,,Elective
+136,61.0130002,GERMAN III,German III,,,,Elective
+137,61.0130042,GERMAN III HON,German III Honors,,,,Elective
+138,61.2130002,GERMAN III GF,German III Gifted,,,,Elective
+139,61.0170012,AP GERMAN,AP German,,,136=137=138,Elective
+140,61.2170012,AP GERMAN GF,AP German Gifted,,,136=137=138,Elective
+141,61.0410002,LATIN I,Latin I,,,,Elective
+142,61.0410042,LATIN I HON,Latin I Honors,,,,Elective
+143,61.0420002,LATIN II,Latin II,,,,Elective
+144,61.0420042,LAT II HON,Latin II Honors,,,,Elective
+145,61.2420002,LATIN II GF,Latin II Gifted,,,,Elective
+146,61.0430002,LATIN III,Latin III,,,,Elective
+147,61.0430042,LATIN III HON,Latin III Honors,,,,Elective
+148,61.2430002,LATIN III GF,Latin III Gifted,,,,Elective
+149,61.0440002,LATIN IV,Latin IV,,,,Elective
+150,61.2440002,LATIN IV GF,Latin IV Gifted,,,,Elective
+151,61.0480012,AP LATIN,AP Latin,,,146=147=148,Elective
+152,61.2480012,AP LATIN GF,AP Latin Gifted,,,146=147=148,Elective
+153,60.0710002,SPAN I,Spanish I,,,,Elective
+154,60.0710042,SPAN I HON,Spanish I Honors,,,,Elective
+155,60.0720002,SPAN II,Spanish II,,,,Elective
+156,60.0720042,SPAN II HON,Spanish II Honors,,,,Elective
+157,60.2720002,SPAN II GF,Spanish II Gifted,,,,Elective
+158,60.0730002,SPAN III,Spanish III,,,,Elective
+159,60.0730042,SPAN III HON,Spanish III Honors,,,,Elective
+160,60.2730002,SPAN III GF,Spanish III Gifted,,,,Elective
+161,60.0740002,SPANISH IV,Spanish IV,,,,Elective
+162,60.2740002,SPANISH IV GF,Spanish IV Gifted,,,,Elective
+163,60.0750002,SPANISH V,Spanish V,,,,Elective
+164,60.2750002,SPANISH V GF,Spanish V Gifted,,,,Elective
+165,60.0790002,SPAN/N SPEAK I,Spanish for Native Speakers,,,,Elective
+166,60.0770012,AP SPANISH,AP Spanish,,,158=159=160=165,Elective
+167,60.2770012,AP SPANISH GF,AP Spanish Gifted,,,158=159=160=165,Elective
+168,55.0212022,ESOL I LANGUAGE,ESOL I,,,,ELA
+169,23.0920022,ENGLISH ESOL II,ESOL II,,,,ELA
+170,55.0210022,COMMUN SKILLS I,Communication Skills I,,,,ELA
+171,23.0610022,9TH GR LIT AND COMP (S),9th Literature & Composition I Sheltered,9,,,ELA
+172,23.0620022,10 LIT & COMP (S),10th Literature & Composition II Sheltered,10,,,ELA
+173,23.0510022,11 AM LIT&COMP (S),11th American Literature Sheltered,11,,,ELA
+174,23.0670024,MULTICUL LIT/ COMP (S),Multicultural Language Sheltered,12,,,ELA
+175,26.0610022,ECOLOGY (S),Ecology Sheltered,,,,Science
+176,26.0120022,BIOLOGY (S),Biology Sheltered,,,,Science
+177,40.0510022,CHEM (S),Chemistry Sheltered,,,,Science
+178,40.0810022,PHYSICS (S),Physics Sheltered,,,,Science
+179,27.0811022,ALGEBRA:CONC & CONN (S),Algebra Con. & Conn. Sheltered,,,,Math
+180,27.0821022,GEOMETRY: CONC & CO (S),Geometry Con. & Conn. Sheltered,,,,Math
+181,27.0831022,ADV ALG: CONC & CONN (S),Adv. Algebra Con. & Conn. Sheltered,,,,Math
+182,55.0270022,ACADEMIC LANG MATH (S),Academic Language of Math Sheltered,,,,Math
+183,45.0711022,WORLD GEOG (S),World Geography Sheltered,,,,Social Studies
+184,45.0830022,WORLD HIST (S),World History Sheltered,,,,Social Studies
+185,45.0810022,US HISTORY (S),US History Sheltered,,,,Social Studies
+186,27.8812002,ALGEBRA: C&C STRAT,Algebra Strategies,,,,Math
+187,27.8822002,GEOMETRY: C&C STRAT,Geometry Strategies,,,,Math
+188,27.8832002,ADV ALG: C&C STRAT,Adv. Algebra Strategies,,,,Math
+189,35.8610002,STDYSKILLS A,Study Skills A,,,,Elective
+190,35.8620002,STDYSKILLS B,Study Skills B,,,,Elective
+191,35.8630002,STDYSKILLS C,Study Skills C,,,,Elective
+192,35.8510002,AFF. SKILLS A,Affluent Skills A,,,,Elective
+193,35.8520002,AFF. SKILLS B,Affluent Skills B,,,,Elective
+194,23.8830002,RDG/WRTG I,Reading/Writing I,,,,Elective
+195,23.8840002,RDG/WRTG II,Reading/Writing II,,,,Elective
+196,27.8843097,ADV FINANCIAL ALG,Adv. Financial Algebra,,,,Math
+197,45.8120097,CURRENT ISSUES,Current Issues,,,,Social Studies
+198,45.8670097,PSNL FINANCIAL LIT,Personal Finance Lit,,,,Social Studies
+199,26.8611097,ENV SC,Enviornmental Science,,,,Science
+200,40.8110097,PHYS SCI,Physical Science,,,,Science
+201,40.8640097,EARTH SYS,Earth Systems,,,,Science
+202,32.8110002,CAREER TECH IN I,Career Tech In I,,,,Elective
+203,32.8120002,CAREER TECH IN II,Career Tech In II,,,,Elective
+204,32.8130097,CAREER TECH IN III,Career Tech In III,,,,Elective
+205,70.8410097,COMM SERV I,Community Service I,,,,Elective
+206,7.4413002,INTRO BUSI TECH,Intro to Business & Technology,,,,Elective
+207,7.4260002,FINANCE LIT,Financial Literacy,,,206,Elective
+208,7.4110002,PRIN OF ACCOUNT I,Accounting I,,,207,Elective
+209,7.4510002,BUSI COMM,Office Aide Yr 1 + Bus. Commun.,,,206,Elective
+210,7.4410002,ADV BUSI TECH,Bus. & Technology (Printshop),,,206,Elective
+211,8.4210002,F M & RETAIL ESSEI,Fashion Merch & Retail Ess.,,,,Elective
+212,8.4220002,ADV F M RETAIL ESS,Adv. Fashion Merch & Retail,,,211,Elective
+213,8.4530002,HOSP/TOURISM ESSEN,Food Travel & Sports Marketing,,,,Elective
+214,8.4540002,HOSP/TOURISM MGMT,Hospitality Mgmt (School Store),,,213,Elective
+215,21.4250002,FOUND ENG/TECH,Found. of Enginnering & Tech,,,,Elective
+216,21.4710002,ENG CONCEPTS,Enginnering Concepts (Yr 2),,,215,Elective
+217,21.4720002,ENG APPLICATION,Enginnering Applications (Yr 3),,,216,Elective
+218,11.4460002,INTRO/SOFTWARE TECH,Intro to Software Technology,,,,Elective
+219,11.4710002,COMP SCI PRINC,Computer Science Principles,,,,Elective
+220,11.0190012,AP COMP SCI PRINC,AP Computer Science Principles,,,,Elective
+221,11.2190012,AP COMP S PRINC GF,AP Computer Science Principles Gifted,,,,Elective
+222,11.0160012,AP COMP SCI A,AP Computer Science A,,,39=40=41=42=43,Elective
+223,11.2160012,AP COMPSCI A GIF,AP Computer Science A Gifted,,,39=40=41=42=43,Elective
+224,27.0853004,LIN ALG/COM SC,Linear Alg w/ Comp Sci App.,,,222=223,Elective
+225,27.2853004,LIN ALG/COM SC GF,Linear Alg w/ Comp Sci App. Gifted,,,222=223,Elective
+226,11.4290002,GAME D:ANIM &SIMUL,Game Design & Simulation,,,220=221=222=223,Elective
+227,10.5181002,A/V TECH/FILM I,AVTF I,,,,Elective
+228,10.5191002,A/V TECH/FILM II,AVTF II,,,227,Elective
+229,10.5201002,A/V TECH/FILM III,AVTF III,,,228,Elective
+230,13.0110002,EXAM TEACH PROF,Examining Teaching Profession,,,,Elective
+231,8.4740002,MKT PRIN,9th Lit w/ Marketing Principles,9,,,Elective
+232,8.4410002,MARKT & ENTR,10th Lit w/ Mkt & Entrep,10,,231,Elective
+233,25.4400002,ESSEN OF HEALTHCARE,Ess. of Hlthcare + S1 Intro H. Sci,,,87=88=89,Elective
+234,2.4710002,BASIC AGRI SCI,Basic Agriculture Science,,,,Elective
+235,52.0220001,FUND THEA II,Theatre Fundamentals,,,,Elective
+236,52.0610002,ACTING I,Acting I,,,235,Elective
+237,52.0620002,ACTING II,Acting II,,,235,Elective
+238,52.0410002,TECH THEATRE I,Technical Theatre I,,,235,Elective
+239,52.0420002,TECH THEATRE II,Technical Theatre II,,,235,Elective
+240,52.0430002,TECH THEATRE III,Technical Theatre III,,,235,Elective
+241,52.0310002,MUSIC THEAT I,Musical Theatre I,,,235,Elective
+242,52.0320002,MUSIC THEAT II,Musical Theatre II,,,235,Elective
+243,52.0330002,MUSIC THEAT III,Musical Theatre III,,,235,Elective
+244,52.0340002,MUSIC THEAT IV,Musical Theatre IV,,,235,Elective
+245,52.0510002,ADV DRAMA I,Adv. Production/Adv. Drama I,,,235,Elective
+246,52.0520002,ADV DRAMA II,Adv. Production/Adv. Drama II,,,235,Elective
+247,52.0523002,ADV DRAMA III,Adv. Production/Adv. Drama III,,,235,Elective
+248,51.0410002,MOD DANCE I,Intro to Dance (Modern Dance),,,,Elective
+249,51.0530002,DANCE I,Int. Dance I (Dance I),,,248,Elective
+250,51.0540002,DANCE II,Int. Dance II (Dance II),,,248,Elective
+251,51.0550002,DANCE III,Int. Dance III (Dance III),,,248,Elective
+252,51.0210002,BALLET I,Adv. Dance I (Ballet I),,,249=250=251,Elective
+253,51.0220002,BALLET II,Adv. Dance I (Ballet II),,,249=250=251,Elective
+254,51.0230002,BALLET III,Adv. Dance I (Ballet III),,,249=250=251,Elective
+255,51.0650002,CLAS/CONT PART I,Adv. Dance II (Partnering I),,,249=250=251,Elective
+256,51.0651002,CLAS/CONT PART II,Adv. Dance II (Partnering II),,,249=250=251,Elective
+257,54.0241002,BEG WOM CHOR I,Beg. Women's Chorus I,,,,Elective
+258,54.0242002,BEG WOM CHOR II,Beg. Women's Chorus II,,,,Elective
+259,54.0251002,INT WOM CHOR I,Int. Women's Chorus I,,,257=258,Elective
+260,54.0252002,INT WOM CHOR II,Int. Women's Chorus II,,,257=258,Elective
+261,54.0253002,INT WOM CHOR III,Int. Women's Chorus III,,,257=258,Elective
+262,54.0265002,MSTRY WOM CHOR I,Mstry Women's Chorus I,,,259=260=261,Elective
+263,54.0266002,MSTRY WMS CHO II,Mstry Women's Chorus II,,,259=260=261,Elective
+264,54.0267002,MSTRY WMS CHO III,Mstry Women's Chorus III,,,259=260=261,Elective
+265,54.0271002,BEG MEN'S CHORUS I,Beg. Men's Chorus I,,,,Elective
+266,54.0272002,BEG MNS CHOR II,Beg. Men's Chorus II,,,,Elective
+267,54.0281002,INT MEN'S CHORUS I,Int. Men's Chorus I,,,265=266,Elective
+268,54.0291002,ADV MEN'S CHORUS I,Adv. Men's Chorus I,,,267,Elective
+269,54.0292002,ADV MNS CHOR II,Adv. Men's Chorus II,,,267,Elective
+270,54.0293002,ADV MNS CHOR III,Adv. Men's Chorus III,,,267,Elective
+271,53.0561002,BEG ORCH I,Beg. Orchestra I,,,,Elective
+272,53.0571002,INT ORCH I,Int. Orchestra I,,,271,Elective
+273,53.0572002,INT ORCH II,Int. Orchestra II,,,271,Elective
+274,53.0751002,INT/ADV ORCHESTRA I,Int./Adv. Orchestra I,,,271,Elective
+275,53.0752002,INT/ADV ORCHESTRA II,Int./Adv. Orchestra II,,,271,Elective
+276,53.0581002,ADV ORCH I,Adv. Orchestra I,,,272=273=274=275,Elective
+277,53.0582002,ADV ORCH II,Adv. Orchestra II,,,272=273=274=275,Elective
+278,53.0583002,ADV ORCH III,Adv. Orchestra III,,,272=273=274=275,Elective
+279,53.0591002,MSTRY ORCH I,Mstry Orchestra I,,,276=277=278,Elective
+280,53.0592002,MSTRY ORCH II,Mstry Orchestra II,,,276=277=278,Elective
+281,53.0593002,MSTRY ORCH III,Mstry Orchestra III,,,276=277=278,Elective
+282,53.0594002,MSTRY ORCH IV,Mstry Orchestra IV,,,276=277=278,Elective
+283,53.0741001,MARCHING PERC,Marching Perc/Beg Instr Ensmbl,,,,Elective
+284,53.0361002,BEG BAND I,Beg. Band I,,,,Elective
+285,53.0362002,BEG BAND II,Beg. Band II,,,,Elective
+286,53.0363002,BEG BAND III,Beg. Band III,,,,Elective
+287,53.0371002,INT BAND I,Int. Band I,,,284=285=286,Elective
+288,53.0372002,INT BAND II,Int. Band II,,,284=285=286,Elective
+289,53.0381002,ADV BAND I,Adv. Band I,,,287=288,Elective
+290,53.0382002,ADV BAND II,Adv. Band II,,,287=288,Elective
+291,53.0391002,MSTRY BAND I,Mstry Band I,,,289=290,Elective
+292,53.0392002,MSTRY BAND II,Mstry Band II,,,289=290,Elective
+293,53.0393002,MSTRY BAND III,Mstry Band III,,,289=290,Elective
+294,53.0221002,BEG MUSIC TECH,Beg. Music Technology,,,,Elective
+295,53.0222002,INT MUSIC TECH,Int. Music Technology,,,294,Elective
+296,53.0223002,ADV MUSIC TECH,Adv. Music Technology,,,295,Elective
+297,53.0228002,MSTRY MUSIC TECH,Mstry Music Technology,,,296,Elective
+298,53.0230012,AP MUS TH,AP Music Theory,,,,Elective
+299,53.2230012,AP MUS TH GIF,AP Music Theory Gifted,,,,Elective
+300,50.0921012,AP ART HIST,AP Art History,,,,Elective
+301,50.2921012,AP ART HIS GIF,AP Art History Gifted,,,,Elective
+302,53.0641002,BEG JAZZ I,Improvisation/Jazz Band,,,,Elective
+303,50.0221002,MEDIA ARTS I,Media Arts,10 11 12,,,Elective
+304,50.0211001,VIS ART COMP I,Visual Art Comp I (2D Art),,,,Elective
+305,50.0212001,V ARTS COMP II,Visual Art Comp II (3D Art),,,,Elective
+306,50.0212001,VIS ART COMP II,Visual Art Comp II (3D Art),,,,Elective
+307,50.0313002,DRAW/PAINT I,Drawing & Painting I,,,304 305=306,Elective
+308,50.0314002,DRAW & PAINT II,Drawing & Painting II,,,304 305=306,Elective
+309,50.0460002,JEWELRY METAL I,Jewelry Metal I,,,304 305=306,Elective
+310,50.0462002,JEWELRY METAL II,Jewelry Metal II,,,304 305=306,Elective
+311,50.0511002,PRINTMAKING I,Printmaking I,,,304 305=306,Elective
+312,50.0711002,PHOTO I,Photography I,,,304 305=306,Elective
+313,50.0712002,PHOTO II,Photography II,,,304 305=306,Elective
+314,50.0713002,PHOTO III,Photography III,,,304 305=306,Elective
+315,50.0714002,PHOTO IV,Photography IV,,,304 305=306,Elective
+316,50.0611002,SCULPTURE I,Sculpture I,,,304 305=306,Elective
+317,50.0612002,SCULPTURE II,Sculpture II,,,304 305=306,Elective
+318,50.0813012,AP STUDIO ART 2D DESIG,AP Studio Art: 2D Art,,,304 305=306 307=308=309=310=311=312=313=314=315=316=317,Elective
+319,50.2813012,AP STU ART 2D DES GIF,AP Studio Art: 2D Art Gifted,,,304 305=306 307=308=309=310=311=312=313=314=315=316=317,Elective
+320,50.0814012,AP STUDIO ART 3D DESIG,AP Studio Art: 3D Art,,,304 305=306 307=308=309=310=311=312=313=314=315=316=317,Elective
+321,50.2814012,AP STU ART 3D DES GIF,AP Studio Art: 3D Art Gifted,,,304 305=306 307=308=309=310=311=312=313=314=315=316=317,Elective
+322,50.0811012,AP STUDIO ART DRAW,AP Studio Art: Drawing,,,304 305=306 307=308=309=310=311=312=313=314=315=316=317,Elective
+323,50.2811012,AP DRAW PORT GIF,AP Studio Art: Drawing Gifted,,,304 305=306 307=308=309=310=311=312=313=314=315=316=317,Elective
+324,36.0510001,PERSONAL FITNESS,Personal Fitness,9,,,Elective
+325,17.0110001,HEALTH,Health,9,,,Elective
+326,17.8130096,FIRST AID SAFE,First Aid Safety,,,,Elective
+327,36.0560002,BODY SCULP,Girls' Body Sculpting,,,,Elective
+328,36.0660002,ADV BODY SCULP,Adv. Girls' Body Sculpting,,,327,Elective
+329,36.0540002,WGT TN,Boys' Weight Training,,,,Elective
+330,36.0640002,ADV WGT TN,Adv. Boys' Wght Training,,,329,Elective
+331,36.0270002,INTRO REC GAMES,Intro to Recreational Games,,,,Elective
+332,36.0370002,INTERMED REC GAMES,Int. Recreational Games,,,331,Elective
+333,36.0210002,INTRO TEAM SPORTS,Intro to Team Sports,,,,Elective
+334,36.0210002,INTRO TO TEAM SPORTS,Intro to Team Sports,,,,Elective
+335,36.0310002,INTERMED TEAM SPORTS,Inter. Team Sports,,,333=334,Elective
+336,36.0410002,ADV TM SP,Adv. Team Sports,,,335,Elective
+337,36.8220097,INTRO LT SPORTS,Intro to Lifetime Sports,,,,Elective
+338,36.8320097,INTER LT SPORTS,Int. Lifetime Sports,,,337,Elective
+339,36.8420097,ADV LT SP,Adv. Lifetime Sports,,,338,Elective
+340,36.0110002,GENERAL PE I,Walking/General PE I,,,,Elective
+341,36.0120002,GENERAL PE II,Walking/General PE II,,,340,Elective
+342,36.0520002,PHYSICAL COND,Physical Condition,,,,Elective
+343,36.0620002,ADV PHYS COND,Adv. Physical Condition,,,342,Elective
+344,36.0550002,EXERCISE AND WELLNESS,Exercise and Wellness,,,,Elective
+345,36.0650002,ADV EX AND WELLNESSS,Adv. Exercise and Wellness,,,344,Elective
+346,45.0590002,PEER LEADERS 1,Peer Leading,,,,Elective
+347,35.0410002,PEER FAC I,Peer Faculty I,,,,Elective
+348,70.2310002,DIR STUDY I GF,Gifted Directed Study,,,,Elective
+349,70.2210002,GIFT INTERNSHP I,Gifted Internship I,,,,Elective
+350,70.2220002,GIFT INTERNSHP II,Gifted Internship II,,,349,Elective
+351,45.0110702,COMP RELIG,Comparative Religion (CLC),,,,Elective
+352,23.0240702,LIT/HIS OLD TMT TR,Lit/History of the Old Testament,,,,Elective
+353,23.0250702,LIT/HIS NEW TMT TR,Lit/History of the New Testament,,,353,Elective
+354,3.7124002,NA RES WS I,NRM: Aquaponics WBL,,,,Elective
+355,7.7124002,BUS COM SCI WS I,Office Aide Yr. 2 WBL,,,209,Elective
+356,8.7124002,MKT WS I,Marketing WBL,,,,Elective
+357,10.7124002,COMM TECH WS I,Communicative Technology WBL,,,,Elective
+358,11.7124002,INFO TECH WS I,Information Technology WBL,,,,Elective
+359,21.7124002,ENGR TECH WS I,Energy Technology WBL,,,,Elective
+360,25.7125002,HEAL SCI WS I,Health Science WBL,,,,Elective
+361,45.7124002,SOC SCI WS I,Social Science WBL,,,,Elective
+362,50.7124002,VISUAL ARTS WS I,Visual Arts WBL,,,,Elective
+363,54.7125002,CHORUS WS I,Chorus WBL,,,,Elective
+364,60.7124002,SPO WLD LANG FR SP WS I,Spoken World Language WBL,,,,Elective
